@@ -1,0 +1,5 @@
+STUDENT DETAILS
+Student name: karuna joka
+Student suc: 2347390411
+Branch: AWDCKKD
+Course: BCA
